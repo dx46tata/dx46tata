@@ -1,4 +1,4 @@
-# Hi there, I'm dx46tata 👋
+# Hi there, I'm limz 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in [your areas of interest, e.g., web development, data science, machine learning, etc.]. I love to learn new technologies and contribute to open-source projects.
 
